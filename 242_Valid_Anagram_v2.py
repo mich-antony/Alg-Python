@@ -1,3 +1,5 @@
+# ref: https://afteracademy.com/blog/valid-anagram
+# https://www.youtube.com/watch?v=9UtInBqnCgA
 class Solution(object):
     def isAnagram(self, s, t):
         """
