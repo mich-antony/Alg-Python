@@ -1,0 +1,4 @@
+- if length of both strings are different then it can't Anagrams
+- If either of the strings is null then it can't be Anagrams
+- idea 1: Sort both strings and compare character by character for matching. S: O(n) | T: O(n log n) for sorting
+- idea 2: count character in each string separately and compare the character count of each string
